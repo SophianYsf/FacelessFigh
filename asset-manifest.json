@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FacelessFigh/static/css/main.6d302f0d.chunk.css",
+    "main.js": "/FacelessFigh/static/js/main.07dbd398.chunk.js",
+    "main.js.map": "/FacelessFigh/static/js/main.07dbd398.chunk.js.map",
+    "runtime-main.js": "/FacelessFigh/static/js/runtime-main.f0b7777e.js",
+    "runtime-main.js.map": "/FacelessFigh/static/js/runtime-main.f0b7777e.js.map",
+    "static/js/2.9dde06c7.chunk.js": "/FacelessFigh/static/js/2.9dde06c7.chunk.js",
+    "static/js/2.9dde06c7.chunk.js.map": "/FacelessFigh/static/js/2.9dde06c7.chunk.js.map",
+    "index.html": "/FacelessFigh/index.html",
+    "precache-manifest.b44bc91ca344334fe4ea8667051e2e07.js": "/FacelessFigh/precache-manifest.b44bc91ca344334fe4ea8667051e2e07.js",
+    "service-worker.js": "/FacelessFigh/service-worker.js",
+    "static/css/main.6d302f0d.chunk.css.map": "/FacelessFigh/static/css/main.6d302f0d.chunk.css.map",
+    "static/js/2.9dde06c7.chunk.js.LICENSE.txt": "/FacelessFigh/static/js/2.9dde06c7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FacelessFigh/static/media/map-image.f40ed5b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b7777e.js",
+    "static/js/2.9dde06c7.chunk.js",
+    "static/css/main.6d302f0d.chunk.css",
+    "static/js/main.07dbd398.chunk.js"
+  ]
+}
